@@ -25,7 +25,7 @@ KMeans 기반으로 세분화한 고객 클러스터에 대해 **Gemini API를 �
 | **시각화** | Seaborn, Matplotlib, Plotly |
 | **웹 구현** | Streamlit |
 | **AI 전략 자동화** | Google Gemini API |
-| **환경 구성** | Git, VSCode, requirements.txt |
+| **환경 구성** | Git, Pycharm, requirements.txt |
 
 ---
 
